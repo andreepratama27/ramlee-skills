@@ -1,0 +1,21 @@
+{
+  "name": "ramlee",
+  "owner": {
+    "name": "Andre Pratama",
+    "email": "andreepratama27@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "ramlee-skills",
+      "source": "./",
+      "description": "A very simple skills for end to end from development -> testing -> raise PR without headache. All manual invoke only.",
+      "version": "1.0.0",
+      "category": "engineering",
+      "keywords": [
+        "engineering",
+        "skills",
+        "end-to-end testing in browser"
+      ]
+    }
+  ]
+}
