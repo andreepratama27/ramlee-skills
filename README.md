@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ramlee.png" width="200" alt="Ramlee">
+</p>
+
 # Ramlee
 
 Simple AI workflow skills for Claude Code. Branch → review → test → PR → staging → Jira.
